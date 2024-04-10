@@ -1,0 +1,21 @@
+body{
+background-color: lightblue;
+text-align: center;
+}
+
+.enter-login-details{
+margin-bottom: 100px;
+font-size: 60px;
+font-weight: bold;
+}
+.login-email,
+.login-password{
+margin-bottom: 50px;
+width: 300px;
+height: 30px;
+
+}
+.text{
+font-size: 20px;
+}
+

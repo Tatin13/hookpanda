@@ -1,0 +1,55 @@
+body{
+background-color: green;
+text-align: center;
+}
+.hp{
+background-color: green;
+margin-bottom: 15px;
+border: none;
+}
+.hp:hover{
+	background-color: darkgreen;
+	
+}
+.hp:active{
+	background-color: lightgreen;
+}
+.image{
+	display: inlineblock;
+width: 400px;
+margin-left: 45px;
+margin-bottom: 0;
+}
+
+.hp-logo{
+	width: 400px;
+	margin-bottom: 100px;
+}
+.intro{
+
+font-weight: bold;
+background-color: green;
+font-size: 40px;
+display: block;
+margin-bottom: 50px;
+}
+.account{
+color: white;
+cursor: pointer;
+margin-bottom: 3000px;
+font-size: 35px;
+}
+
+.aim{
+color: white;
+font-size: 25px;
+font-weight: bold;
+}
+.input{
+width: 400px;
+height: 25px;
+}
+.register-button{
+width: 100px;
+height: 40px;
+}
