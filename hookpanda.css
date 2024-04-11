@@ -1,14 +1,14 @@
 body{
-background-color: green;
+background-color: darkgray;
 text-align: center;
 }
 .hp{
-background-color: green;
+background-color: darkgray;
 margin-bottom: 15px;
 border: none;
 }
 .hp:hover{
-	background-color: darkgreen;
+	background-color: lightgray;
 	
 }
 .hp:active{
@@ -28,7 +28,7 @@ margin-bottom: 0;
 .intro{
 
 font-weight: bold;
-background-color: green;
+
 font-size: 40px;
 display: block;
 margin-bottom: 50px;
